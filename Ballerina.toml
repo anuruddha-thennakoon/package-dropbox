@@ -1,0 +1,8 @@
+[project]
+org-name = "anuruddhat"
+version = "0.0.1"
+authors = ["Anuruddha Thennakoon"]
+keywords = ["dropbox", "upload"]
+repository = "https://github.com/anuruddha-thennakoon/package-dropbox"
+license = "Apache-2.0"
+
