@@ -6,7 +6,7 @@ The Dropbox connector allows you to do operations like list, get, insert, update
 
 | Ballerina Language Version  | Dropbox API Version |
 |:---------------------------:|:-------------------:|
-| 0.981.0                     | v1                  |
+| 0.981.0                     | v2                  |
 
 ## Getting started
 
